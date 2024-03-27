@@ -1,3 +1,5 @@
+(require 'subr-x)
+
 (defface tree-explorer-child-face
   '((t (:inherit font-lock-variable-name-face)))
   "Default item face for tree-explorer.")
